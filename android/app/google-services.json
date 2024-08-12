@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759114658372",
+    "project_id": "atiot-1e51b",
+    "storage_bucket": "atiot-1e51b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759114658372:android:0a472ccfa12ca2269fc211",
+        "android_client_info": {
+          "package_name": "org.thingsboard.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh23c6Fu4IZkwQJZXbgJeWg3vqX2I_gTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
