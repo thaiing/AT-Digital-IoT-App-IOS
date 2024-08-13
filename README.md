@@ -10,10 +10,10 @@ Môi trường triển khai: [SDK 3.19.6](https://docs.flutter.dev/release/archi
   - `dart pub global activate flutterfire_cli` Cài đặt flutterfire CLI.
   - `flutterfire configure`
 3. Tải xuống các packages cần thiết bằng lệnh:
-- flutter pub cache repair
-- flutter pub cache clean
-- flutter pub get
-4. Chạy debugger cho chương trình: flutter run (hoặc dựa theo IDE)
+- `flutter pub cache repair`
+- `flutter pub cache clean`
+- `flutter pub get`
+4. Chạy debugger cho chương trình: `flutter run` (hoặc dựa theo IDE)
 
 ## Resources
 
