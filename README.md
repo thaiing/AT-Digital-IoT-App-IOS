@@ -1,6 +1,8 @@
 ## Hướng dẫn khởi chạy debug cho ATDigital Mobile App:
 
 Môi trường triển khai: [SDK 3.19.6](https://docs.flutter.dev/release/archive) (Quan trọng)
+> **⚠️ Lưu ý:** Không nên thay đổi file *pubspec.yaml*
+
 1. Đảm bảo trong *lib/constants/app_constants.dart* biến _thingsBoardApiEndpoint_ đã chỉ đúng đến Api của server
 2. (**OPTIONAL**) Liên kết chương trình với **Firebase** ([tài liệu](https://firebase.google.com/docs/flutter/setup?platform=android))
 - Tạo một project cho [Firebase](https://firebase.google.com/)
