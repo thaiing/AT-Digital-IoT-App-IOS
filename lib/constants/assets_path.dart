@@ -1,6 +1,6 @@
 abstract class ThingsboardImage {
   static final thingsBoardWithTitle =
-      'assets/images/atdigital_iot_logo.svg';
+      'assets/images/atdigital_Iot_logo.svg';
   static final thingsboard = 'assets/images/atdigital.svg';
   static final thingsboardOuter = 'assets/images/atdigital_iot_outer.svg';
   static final thingsboardCenter = 'assets/images/atdigital_iot_center.svg';

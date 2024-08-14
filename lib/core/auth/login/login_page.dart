@@ -73,9 +73,7 @@ class _LoginPageState extends TbPageState<LoginPage> {
                                 SvgPicture.asset(
                                     ThingsboardImage.thingsBoardWithTitle,
                                     height: 25,
-                                    colorFilter: ColorFilter.mode(
-                                        Theme.of(context).primaryColor,
-                                        BlendMode.srcIn),
+                                    colorFilter: null,
                                     semanticsLabel:
                                         '${S.of(context).logoDefaultValue}')
                               ]),
