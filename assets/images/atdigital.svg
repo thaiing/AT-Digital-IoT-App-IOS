@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 320 320"
    id="svg9390"
-   sodipodi:docname="thingsboard.svg"
+   sodipodi:docname="atdigital.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.9379145"
-     inkscape:cx="153.51554"
-     inkscape:cy="145.00124"
+     inkscape:zoom="2.5437392"
+     inkscape:cx="160.19724"
+     inkscape:cy="160.00068"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -45,16 +45,18 @@
        color-rendering="auto"
        image-rendering="auto"
        solid-color="#000000"
-       style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal;fill:#1e0d66;fill-opacity:1"
-       id="path9382" />
+       style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal;fill:#012596;fill-opacity:1"
+       id="path9382"
+       fill="#012596" />
     <path
        d="m168.87 320c28.363 0 54.915-7.9155 77.614-21.538 6.4724 5.2624 14.605 8.1917 23.067 8.1939a8.7662 8.7662 0 0 0 4e-3 0c20.155-7e-4 36.68-16.528 36.679-36.682a8.7662 8.7662 0 0 0 0-0.011c-0.01-8.4149-2.9267-16.484-8.1034-22.927 13.825-22.82 21.866-49.572 21.866-78.162a8.7662 8.7662 0 1 0-17.531 0c0 24.703-6.7194 47.749-18.378 67.575-4.5664-1.9846-9.4728-3.1496-14.519-3.1573a8.7662 8.7662 0 0 0-0.0124 0c-20.155-6.2e-4 -36.683 16.527-36.682 36.682 2e-3 4.9994 1.1387 9.8628 3.0829 14.397-19.717 11.484-42.586 18.095-67.086 18.095a8.7662 8.7662 0 1 0 0 17.531zm100.69-30.875c-5.913 0-11.191-2.5122-14.836-7.0769a8.7662 8.7662 0 0 0-0.18261-0.2146c-2.6715-3.3799-4.1327-7.5531-4.1341-11.863 2e-3 -10.677 8.4681-19.144 19.144-19.148 4.37 8e-3 8.6012 1.5088 12 4.2547a8.7662 8.7662 0 0 0 0.0124 9e-3c4.5141 3.6332 7.1359 9.098 7.1443 14.893-3e-3 10.677-8.4702 19.145-19.148 19.146z"
        color="#000000"
        color-rendering="auto"
        image-rendering="auto"
        solid-color="#000000"
-       style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal;fill:#af0000;fill-opacity:1"
-       id="path9386" />
+       style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal;fill:#cc0514;fill-opacity:1"
+       id="path9386"
+       fill="#cc0514" />
     <image
        width="213.75999"
        height="213.44"
