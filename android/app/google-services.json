@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:759114658372:android:0a472ccfa12ca2269fc211",
         "android_client_info": {
-          "package_name": "org.thingsboard.app"
+          "package_name": "org.atdigital_iot.app"
         }
       },
       "oauth_client": [],

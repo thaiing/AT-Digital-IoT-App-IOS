@@ -1,4 +1,4 @@
-package org.thingsboard.app
+package org.atdigital_iot.app
 
 import android.app.Activity
 import android.net.Uri
