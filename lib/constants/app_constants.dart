@@ -1,5 +1,5 @@
 abstract class ThingsboardAppConstants {
-  static const thingsBoardApiEndpoint = 'https://iot.at-energy.vn';
+  static const thingsBoardApiEndpoint = 'http://222.252.22.158';
   static const thingsboardOAuth2CallbackUrlScheme = 'com.atdigital.iot.app.auth';
 
   /// Not for production (only for debugging)
