@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "759114658372",
-    "project_id": "atiot-1e51b",
-    "storage_bucket": "atiot-1e51b.appspot.com"
+    "project_number": "1078616120728",
+    "project_id": "atdigital-iot-cb332",
+    "storage_bucket": "atdigital-iot-cb332.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:759114658372:android:0a472ccfa12ca2269fc211",
+        "mobilesdk_app_id": "1:1078616120728:android:bac6271c6d06dc56a5dfed",
         "android_client_info": {
-          "package_name": "org.atdigital_iot.app"
+          "package_name": "com.atdigital.iot.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDh23c6Fu4IZkwQJZXbgJeWg3vqX2I_gTs"
+          "current_key": "AIzaSyCqoSABoLUaVSbYGw37AWEw07Smc80hhYc"
         }
       ],
       "services": {

@@ -1,4 +1,4 @@
-package org.atdigital_iot.app
+package com.atdigital.iot.app
 
 import androidx.annotation.NonNull
 import io.flutter.embedding.android.FlutterActivity

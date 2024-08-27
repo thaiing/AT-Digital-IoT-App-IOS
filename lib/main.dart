@@ -20,6 +20,8 @@ import 'package:universal_platform/universal_platform.dart';
 import 'config/themes/tb_theme.dart';
 import 'generated/l10n.dart';
 
+/////////
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 //  await FlutterDownloader.initialize();
