@@ -6,7 +6,7 @@
 	<string>development</string>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:demo.thingsboard.io</string>
+		<string>applinks:http://222.252.22.158</string>
 	</array>
 </dict>
 </plist>
