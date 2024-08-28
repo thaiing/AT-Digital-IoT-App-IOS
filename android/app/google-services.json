@@ -7,9 +7,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1078616120728:android:bac6271c6d06dc56a5dfed",
+        "mobilesdk_app_id": "1:1078616120728:android:a2a81c5bb8da5d62a5dfed",
         "android_client_info": {
           "package_name": "com.atdigital.iot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqoSABoLUaVSbYGw37AWEw07Smc80hhYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078616120728:android:bac6271c6d06dc56a5dfed",
+        "android_client_info": {
+          "package_name": "org.atdigital_iot.app"
         }
       },
       "oauth_client": [],
