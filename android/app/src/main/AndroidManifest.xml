@@ -70,8 +70,8 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
-                    android:scheme="http"
-                    android:host="222.252.22.158"
+                    android:scheme="https"
+                    android:host="iot.at-energy.vn"
                     android:pathPrefix="/api/noauth/qr" />
             </intent-filter>
         </activity>

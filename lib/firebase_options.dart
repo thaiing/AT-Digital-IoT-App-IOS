@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'atdigital-iot-cb332.appspot.com',
     iosBundleId: 'com.atdigital.iot.app',
   );
+
 }
