@@ -1,4 +1,4 @@
-package com.atdigital.iot.app
+package com.pchungyen.iot.app
 
 import android.app.Activity
 import android.net.Uri

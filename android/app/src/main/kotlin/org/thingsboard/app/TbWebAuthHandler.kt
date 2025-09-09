@@ -1,4 +1,4 @@
-package com.atdigital.iot.app
+package com.pchungyen.iot.app
 
 import android.content.Context
 import android.content.Intent

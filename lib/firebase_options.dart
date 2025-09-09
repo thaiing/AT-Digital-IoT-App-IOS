@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCqoSABoLUaVSbYGw37AWEw07Smc80hhYc',
-    appId: '1:1078616120728:android:a2a81c5bb8da5d62a5dfed',
-    messagingSenderId: '1078616120728',
-    projectId: 'atdigital-iot-cb332',
-    storageBucket: 'atdigital-iot-cb332.appspot.com',
+    apiKey: 'AIzaSyCAhH_LUnC9SPxf5dt4kcQPVFpQ1BYR0wA',
+    appId: '1:551401652797:android:4a9a2a9e34370d5735e054',
+    messagingSenderId: '551401652797',
+    projectId: 'pchy-iot',
+    storageBucket: 'pchy-iot.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAPbrexPG6ZGXN1AJvMbx0HugWwT4bWBMM',
-    appId: '1:1078616120728:ios:2a47a915549ec723a5dfed',
-    messagingSenderId: '1078616120728',
-    projectId: 'atdigital-iot-cb332',
-    storageBucket: 'atdigital-iot-cb332.appspot.com',
-    iosBundleId: 'com.atdigital.iot.app',
+    apiKey: 'AIzaSyBfgxtu5JyLQ6PREKhvCsRGoybc6YtJ4iw',
+    appId: '1:551401652797:ios:9370f90d16850bc735e054',
+    messagingSenderId: '551401652797',
+    projectId: 'pchy-iot',
+    storageBucket: 'pchy-iot.firebasestorage.app',
+    iosBundleId: 'com.pchungyen.iot.app',
   );
 
 }

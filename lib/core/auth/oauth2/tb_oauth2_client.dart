@@ -3,11 +3,11 @@ import 'dart:typed_data';
 
 import 'package:crypto/crypto.dart';
 import 'package:dart_jsonwebtoken/dart_jsonwebtoken.dart';
-import 'package:atdigital_iot_app/constants/app_constants.dart';
-import 'package:atdigital_iot_app/core/auth/web/tb_web_auth.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/locator.dart';
-import 'package:atdigital_iot_app/utils/services/endpoint/i_endpoint_service.dart';
+import 'package:pchungyen_iot_app/constants/app_constants.dart';
+import 'package:pchungyen_iot_app/core/auth/web/tb_web_auth.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/locator.dart';
+import 'package:pchungyen_iot_app/utils/services/endpoint/i_endpoint_service.dart';
 
 import 'app_secret_provider.dart';
 

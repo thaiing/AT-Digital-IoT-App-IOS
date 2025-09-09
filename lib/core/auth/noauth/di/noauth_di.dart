@@ -1,11 +1,11 @@
-import 'package:atdigital_iot_app/core/auth/noauth/data/datasource/remote/i_noauth_remote_datasource.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/data/datasource/remote/noauth_remote_datasource.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/data/repository/noauth_repository.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/domain/repository/i_noauth_repository.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/domain/usecases/switch_endpoint_usecase.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/presentation/bloc/bloc.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/locator.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/data/datasource/remote/i_noauth_remote_datasource.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/data/datasource/remote/noauth_remote_datasource.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/data/repository/noauth_repository.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/domain/repository/i_noauth_repository.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/domain/usecases/switch_endpoint_usecase.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/presentation/bloc/bloc.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/locator.dart';
 
 abstract final class NoAuthDi {
   static void init({required TbContext tbContext}) {

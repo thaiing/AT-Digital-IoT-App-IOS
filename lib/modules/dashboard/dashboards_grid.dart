@@ -1,8 +1,8 @@
 import 'package:flutter/widgets.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/core/entity/entities_base.dart';
-import 'package:atdigital_iot_app/core/entity/entities_grid.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/core/entity/entities_base.dart';
+import 'package:pchungyen_iot_app/core/entity/entities_grid.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 import 'dashboards_base.dart';

@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:atdigital_iot_app/constants/assets_path.dart';
+import 'package:pchungyen_iot_app/constants/assets_path.dart';
 
 class TbProgressIndicator extends ProgressIndicator {
   final double size;

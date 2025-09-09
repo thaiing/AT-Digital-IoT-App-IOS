@@ -1,10 +1,10 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:atdigital_iot_app/config/routes/router.dart';
-import 'package:atdigital_iot_app/core/auth/login/reset_password_request_page.dart';
-import 'package:atdigital_iot_app/core/auth/login/two_factor_authentication_page.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/config/routes/router.dart';
+import 'package:pchungyen_iot_app/core/auth/login/reset_password_request_page.dart';
+import 'package:pchungyen_iot_app/core/auth/login/two_factor_authentication_page.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
 
 import 'login/login_page.dart';
 

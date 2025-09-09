@@ -1,6 +1,6 @@
 import 'package:fluro/fluro.dart';
-import 'package:atdigital_iot_app/config/routes/router.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/presentation/view/switch_endpoint_noauth_view.dart';
+import 'package:pchungyen_iot_app/config/routes/router.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/presentation/view/switch_endpoint_noauth_view.dart';
 
 class NoAuthRoutes extends TbRoutes {
   NoAuthRoutes(super.tbContext);

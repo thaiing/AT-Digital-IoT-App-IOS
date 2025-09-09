@@ -1,4 +1,4 @@
-import 'package:atdigital_iot_app/core/entity/entities_base.dart';
+import 'package:pchungyen_iot_app/core/entity/entities_base.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 mixin TenantsBase on EntitiesBase<Tenant, PageLink> {

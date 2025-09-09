@@ -1,40 +1,21 @@
 {
   "project_info": {
-    "project_number": "1078616120728",
-    "project_id": "atdigital-iot-cb332",
-    "storage_bucket": "atdigital-iot-cb332.appspot.com"
+    "project_number": "551401652797",
+    "project_id": "pchy-iot",
+    "storage_bucket": "pchy-iot.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1078616120728:android:a2a81c5bb8da5d62a5dfed",
+        "mobilesdk_app_id": "1:551401652797:android:4a9a2a9e34370d5735e054",
         "android_client_info": {
-          "package_name": "com.atdigital.iot.app"
+          "package_name": "com.pchungyen.iot.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCqoSABoLUaVSbYGw37AWEw07Smc80hhYc"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1078616120728:android:bac6271c6d06dc56a5dfed",
-        "android_client_info": {
-          "package_name": "org.atdigital_iot.app"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCqoSABoLUaVSbYGw37AWEw07Smc80hhYc"
+          "current_key": "AIzaSyCAhH_LUnC9SPxf5dt4kcQPVFpQ1BYR0wA"
         }
       ],
       "services": {

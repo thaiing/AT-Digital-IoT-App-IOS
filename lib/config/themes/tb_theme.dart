@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:atdigital_iot_app/utils/transition/page_transitions.dart';
+import 'package:pchungyen_iot_app/utils/transition/page_transitions.dart';
 
 const int _tbPrimaryColorValue = 0xFF012596;
 const Color _tbPrimaryColor = Color(_tbPrimaryColorValue);

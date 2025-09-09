@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/generated/l10n.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/generated/l10n.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 class NotificationSlidableWidget extends StatefulWidget {

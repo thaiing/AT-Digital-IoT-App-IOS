@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/locator.dart';
-import 'package:atdigital_iot_app/modules/dashboard/dashboard.dart';
-import 'package:atdigital_iot_app/utils/services/endpoint/i_endpoint_service.dart';
-import 'package:atdigital_iot_app/widgets/tb_app_bar.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/locator.dart';
+import 'package:pchungyen_iot_app/modules/dashboard/dashboard.dart';
+import 'package:pchungyen_iot_app/utils/services/endpoint/i_endpoint_service.dart';
+import 'package:pchungyen_iot_app/widgets/tb_app_bar.dart';
 
 class FullscreenDashboardPage extends TbPageWidget {
   final String fullscreenDashboardId;

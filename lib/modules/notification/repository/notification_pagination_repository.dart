@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
-import 'package:atdigital_iot_app/modules/notification/controllers/notification_query_ctrl.dart';
+import 'package:pchungyen_iot_app/modules/notification/controllers/notification_query_ctrl.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 class NotificationPaginationRepository {

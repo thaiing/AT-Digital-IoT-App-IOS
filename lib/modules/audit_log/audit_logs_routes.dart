@@ -1,8 +1,8 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/widgets.dart';
-import 'package:atdigital_iot_app/config/routes/router.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/modules/audit_log/audit_logs_page.dart';
+import 'package:pchungyen_iot_app/config/routes/router.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/modules/audit_log/audit_logs_page.dart';
 
 class AuditLogsRoutes extends TbRoutes {
   late var auditLogsHandler = Handler(

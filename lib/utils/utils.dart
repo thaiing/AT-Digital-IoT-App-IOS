@@ -2,8 +2,8 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:jovial_svg/jovial_svg.dart';
-import 'package:atdigital_iot_app/locator.dart';
-import 'package:atdigital_iot_app/utils/services/endpoint/i_endpoint_service.dart';
+import 'package:pchungyen_iot_app/locator.dart';
+import 'package:pchungyen_iot_app/utils/services/endpoint/i_endpoint_service.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 abstract class Utils {

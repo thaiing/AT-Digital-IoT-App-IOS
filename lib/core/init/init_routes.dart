@@ -1,8 +1,8 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:atdigital_iot_app/config/routes/router.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/config/routes/router.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
 
 import 'init_app.dart';
 

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/presentation/widgets/endpoint_name_widget.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/generated/l10n.dart';
-import 'package:atdigital_iot_app/locator.dart';
-import 'package:atdigital_iot_app/modules/notification/service/notifications_local_service.dart';
-import 'package:atdigital_iot_app/utils/services/endpoint/i_endpoint_service.dart';
-import 'package:atdigital_iot_app/utils/services/firebase/i_firebase_service.dart';
-import 'package:atdigital_iot_app/utils/services/notification_service.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/presentation/widgets/endpoint_name_widget.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/generated/l10n.dart';
+import 'package:pchungyen_iot_app/locator.dart';
+import 'package:pchungyen_iot_app/modules/notification/service/notifications_local_service.dart';
+import 'package:pchungyen_iot_app/utils/services/endpoint/i_endpoint_service.dart';
+import 'package:pchungyen_iot_app/utils/services/firebase/i_firebase_service.dart';
+import 'package:pchungyen_iot_app/utils/services/notification_service.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 class MorePage extends TbContextWidget {

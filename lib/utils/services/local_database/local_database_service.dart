@@ -1,5 +1,5 @@
-import 'package:atdigital_iot_app/core/logger/tb_logger.dart';
-import 'package:atdigital_iot_app/utils/services/local_database/i_local_database_service.dart';
+import 'package:pchungyen_iot_app/core/logger/tb_logger.dart';
+import 'package:pchungyen_iot_app/utils/services/local_database/i_local_database_service.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 class LocalDatabaseService implements ILocalDatabaseService {

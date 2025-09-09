@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/widgets/tb_app_bar.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/widgets/tb_app_bar.dart';
 
 class DashboardPage extends TbPageWidget {
   final String? _dashboardTitle;

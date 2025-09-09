@@ -1,21 +1,21 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
-import 'package:atdigital_iot_app/core/auth/auth_routes.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/routes/noauth_routes.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/init/init_routes.dart';
-import 'package:atdigital_iot_app/modules/alarm/alarm_routes.dart';
-import 'package:atdigital_iot_app/modules/asset/asset_routes.dart';
-import 'package:atdigital_iot_app/modules/audit_log/audit_logs_routes.dart';
-import 'package:atdigital_iot_app/modules/customer/customer_routes.dart';
-import 'package:atdigital_iot_app/modules/dashboard/dashboard_routes.dart';
-import 'package:atdigital_iot_app/modules/device/device_routes.dart';
-import 'package:atdigital_iot_app/modules/home/home_routes.dart';
-import 'package:atdigital_iot_app/modules/notification/routes/notification_routes.dart';
-import 'package:atdigital_iot_app/modules/profile/profile_routes.dart';
-import 'package:atdigital_iot_app/modules/tenant/tenant_routes.dart';
-import 'package:atdigital_iot_app/modules/url/url_routes.dart';
-import 'package:atdigital_iot_app/utils/ui_utils_routes.dart';
+import 'package:pchungyen_iot_app/core/auth/auth_routes.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/routes/noauth_routes.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/init/init_routes.dart';
+import 'package:pchungyen_iot_app/modules/alarm/alarm_routes.dart';
+import 'package:pchungyen_iot_app/modules/asset/asset_routes.dart';
+import 'package:pchungyen_iot_app/modules/audit_log/audit_logs_routes.dart';
+import 'package:pchungyen_iot_app/modules/customer/customer_routes.dart';
+import 'package:pchungyen_iot_app/modules/dashboard/dashboard_routes.dart';
+import 'package:pchungyen_iot_app/modules/device/device_routes.dart';
+import 'package:pchungyen_iot_app/modules/home/home_routes.dart';
+import 'package:pchungyen_iot_app/modules/notification/routes/notification_routes.dart';
+import 'package:pchungyen_iot_app/modules/profile/profile_routes.dart';
+import 'package:pchungyen_iot_app/modules/tenant/tenant_routes.dart';
+import 'package:pchungyen_iot_app/modules/url/url_routes.dart';
+import 'package:pchungyen_iot_app/utils/ui_utils_routes.dart';
 
 class ThingsboardAppRouter {
   final router = FluroRouter();

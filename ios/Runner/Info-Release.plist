@@ -11,7 +11,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>ATDigital IoT</string>
+	<string>PCHY IoT</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -64,5 +64,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>Ứng dụng này cần truy cập vị trí của bạn để hiển thị thiết bị trên bản đồ.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Ứng dụng này cần truy cập vị trí của bạn để hiển thị thiết bị trên bản đồ, ngay cả khi ứng dụng không được mở.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Ứng dụng này cần truy cập vị trí của bạn để hiển thị thiết bị trên bản đồ, ngay cả khi ứng dụng không được mở.</string>
 </dict>
 </plist>

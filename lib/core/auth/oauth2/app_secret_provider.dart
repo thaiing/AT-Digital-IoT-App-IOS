@@ -1,4 +1,4 @@
-import 'package:atdigital_iot_app/constants/app_constants.dart';
+import 'package:pchungyen_iot_app/constants/app_constants.dart';
 
 abstract class AppSecretProvider {
   Future<String> getAppSecret();

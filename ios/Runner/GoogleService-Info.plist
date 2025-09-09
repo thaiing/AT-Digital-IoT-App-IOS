@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.atdigital.iot.app</string>
+	<string>com.pchungyen.iot.app</string>
 	<key>PROJECT_ID</key>
 	<string>atdigital-iot-cb332</string>
 	<key>STORAGE_BUCKET</key>

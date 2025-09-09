@@ -3,10 +3,10 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
 import 'package:intl/intl.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/generated/l10n.dart';
-import 'package:atdigital_iot_app/utils/utils.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/generated/l10n.dart';
+import 'package:pchungyen_iot_app/utils/utils.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 const Map<EntityType, String> entityTypeTranslations = {

@@ -1,9 +1,9 @@
 import 'dart:async';
 
 import 'package:flutter_app_badger/flutter_app_badger.dart';
-import 'package:atdigital_iot_app/locator.dart';
-import 'package:atdigital_iot_app/modules/notification/service/i_notifications_local_service.dart';
-import 'package:atdigital_iot_app/utils/services/local_database/i_local_database_service.dart';
+import 'package:pchungyen_iot_app/locator.dart';
+import 'package:pchungyen_iot_app/modules/notification/service/i_notifications_local_service.dart';
+import 'package:pchungyen_iot_app/utils/services/local_database/i_local_database_service.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 final class NotificationsLocalService implements INotificationsLocalService {

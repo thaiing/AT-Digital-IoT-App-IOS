@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/modules/alarm/alarms_base.dart';
-import 'package:atdigital_iot_app/modules/notification/widgets/notification_icon.dart';
-import 'package:atdigital_iot_app/utils/services/notification_service.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/modules/alarm/alarms_base.dart';
+import 'package:pchungyen_iot_app/modules/notification/widgets/notification_icon.dart';
+import 'package:pchungyen_iot_app/utils/services/notification_service.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 import 'package:timeago/timeago.dart' as timeago;
 

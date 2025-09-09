@@ -1,6 +1,6 @@
 import 'package:logger/logger.dart';
-import 'package:atdigital_iot_app/core/logger/tb_log_output.dart';
-import 'package:atdigital_iot_app/core/logger/tb_logs_filter.dart';
+import 'package:pchungyen_iot_app/core/logger/tb_log_output.dart';
+import 'package:pchungyen_iot_app/core/logger/tb_logs_filter.dart';
 
 class TbLogger {
   final _logger = Logger(

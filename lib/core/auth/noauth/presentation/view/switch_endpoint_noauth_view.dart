@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
-import 'package:atdigital_iot_app/config/routes/router.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/di/noauth_di.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/presentation/bloc/bloc.dart';
-import 'package:atdigital_iot_app/core/auth/noauth/presentation/widgets/noauth_loading_widget.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/locator.dart';
+import 'package:pchungyen_iot_app/config/routes/router.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/di/noauth_di.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/presentation/bloc/bloc.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/presentation/widgets/noauth_loading_widget.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/locator.dart';
 
 class SwitchEndpointNoAuthView extends TbPageWidget {
   SwitchEndpointNoAuthView({

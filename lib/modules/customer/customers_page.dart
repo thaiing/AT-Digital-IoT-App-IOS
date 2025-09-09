@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/core/entity/entities_base.dart';
-import 'package:atdigital_iot_app/modules/customer/customers_list.dart';
-import 'package:atdigital_iot_app/widgets/tb_app_bar.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/core/entity/entities_base.dart';
+import 'package:pchungyen_iot_app/modules/customer/customers_list.dart';
+import 'package:pchungyen_iot_app/widgets/tb_app_bar.dart';
 
 class CustomersPage extends TbPageWidget {
   final bool searchMode;

@@ -1,8 +1,8 @@
 import 'dart:ui';
 
-import 'package:atdigital_iot_app/core/auth/noauth/data/datasource/remote/i_noauth_remote_datasource.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/logger/tb_logger.dart';
+import 'package:pchungyen_iot_app/core/auth/noauth/data/datasource/remote/i_noauth_remote_datasource.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/logger/tb_logger.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 class NoAuthRemoteDatasource implements INoAuthRemoteDatasource {

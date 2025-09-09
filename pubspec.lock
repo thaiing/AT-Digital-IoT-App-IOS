@@ -397,42 +397,42 @@ packages:
     dependency: "direct main"
     description:
       name: firebase_core
-      sha256: "96607c0e829a581c2a483c658f04e8b159964c3bae2730f73297070bc85d40bb"
+      sha256: "2e9324f719e90200dc7d3c4f5d2abc26052f9f2b995d3b6626c47a0dfe1c8192"
       url: "https://pub.dev"
     source: hosted
-    version: "2.24.2"
+    version: "2.15.0"
   firebase_core_platform_interface:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
       name: firebase_core_platform_interface
-      sha256: c437ae5d17e6b5cc7981cf6fd458a5db4d12979905f9aafd1fea930428a9fe63
+      sha256: b63e3be6c96ef5c33bdec1aab23c91eb00696f6452f0519401d640938c94cba2
       url: "https://pub.dev"
     source: hosted
-    version: "5.0.0"
+    version: "4.8.0"
   firebase_core_web:
     dependency: transitive
     description:
       name: firebase_core_web
-      sha256: d585bdf3c656c3f7821ba1bd44da5f13365d22fcecaf5eb75c4295246aaa83c0
+      sha256: c8e1d59385eee98de63c92f961d2a7062c5d9a65e7f45bdc7f1b0b205aab2492
       url: "https://pub.dev"
     source: hosted
-    version: "2.10.0"
+    version: "2.11.5"
   firebase_messaging:
     dependency: "direct main"
     description:
       name: firebase_messaging
-      sha256: "980259425fa5e2afc03e533f33723335731d21a56fd255611083bceebf4373a8"
+      sha256: "8ac91d83a028eef050de770f1dc98421e215714d245f34de7b154d436676fbd0"
       url: "https://pub.dev"
     source: hosted
-    version: "14.7.10"
+    version: "14.6.5"
   firebase_messaging_platform_interface:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
       name: firebase_messaging_platform_interface
-      sha256: "54e283a0e41d81d854636ad0dad73066adc53407a60a7c3189c9656e2f1b6107"
+      sha256: dcf065ecb9518ddc671477f9b8592274df7ccf74c6aaa15f02fc92b1f2b9c8a8
       url: "https://pub.dev"
     source: hosted
-    version: "4.5.18"
+    version: "4.5.14"
   firebase_messaging_web:
     dependency: transitive
     description:
@@ -1446,10 +1446,10 @@ packages:
     dependency: "direct main"
     description:
       name: url_launcher
-      sha256: b1c9e98774adf8820c96fbc7ae3601231d324a7d5ebd8babe27b6dfac91357ba
+      sha256: "4f0d5f9bf7efba3da5a7ff03bd33cc898c84bac978c068e1c94483828e709592"
       url: "https://pub.dev"
     source: hosted
-    version: "6.2.1"
+    version: "6.1.5"
   url_launcher_android:
     dependency: transitive
     description:
@@ -1459,13 +1459,13 @@ packages:
     source: hosted
     version: "6.2.0"
   url_launcher_ios:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
       name: url_launcher_ios
-      sha256: bba3373219b7abb6b5e0d071b0fe66dfbe005d07517a68e38d4fc3638f35c6d3
+      sha256: "9af7ea73259886b92199f9e42c116072f05ff9bea2dcb339ab935dfc957392c2"
       url: "https://pub.dev"
     source: hosted
-    version: "6.2.1"
+    version: "6.1.4"
   url_launcher_linux:
     dependency: transitive
     description:

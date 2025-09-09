@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
-import 'package:atdigital_iot_app/core/context/tb_context_widget.dart';
-import 'package:atdigital_iot_app/generated/l10n.dart';
-import 'package:atdigital_iot_app/modules/alarm/alarms_page.dart';
-import 'package:atdigital_iot_app/modules/device/devices_main_page.dart';
-import 'package:atdigital_iot_app/modules/home/home_page.dart';
-import 'package:atdigital_iot_app/modules/more/more_page.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context_widget.dart';
+import 'package:pchungyen_iot_app/generated/l10n.dart';
+import 'package:pchungyen_iot_app/modules/alarm/alarms_page.dart';
+import 'package:pchungyen_iot_app/modules/device/devices_main_page.dart';
+import 'package:pchungyen_iot_app/modules/home/home_page.dart';
+import 'package:pchungyen_iot_app/modules/more/more_page.dart';
 import 'package:thingsboard_client/thingsboard_client.dart';
 
 class TbMainNavigationItem {

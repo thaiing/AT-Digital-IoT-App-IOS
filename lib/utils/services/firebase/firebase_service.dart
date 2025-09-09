@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
-import 'package:atdigital_iot_app/core/logger/tb_logger.dart';
-import 'package:atdigital_iot_app/utils/services/endpoint/i_endpoint_service.dart';
-import 'package:atdigital_iot_app/utils/services/firebase/i_firebase_service.dart';
+import 'package:pchungyen_iot_app/core/logger/tb_logger.dart';
+import 'package:pchungyen_iot_app/utils/services/endpoint/i_endpoint_service.dart';
+import 'package:pchungyen_iot_app/utils/services/firebase/i_firebase_service.dart';
 
 class FirebaseService implements IFirebaseService {
   FirebaseService({

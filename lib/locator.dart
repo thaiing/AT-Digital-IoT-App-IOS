@@ -1,12 +1,12 @@
 import 'package:get_it/get_it.dart';
-import 'package:atdigital_iot_app/config/routes/router.dart';
-import 'package:atdigital_iot_app/core/logger/tb_logger.dart';
-import 'package:atdigital_iot_app/utils/services/_tb_secure_storage.dart';
-import 'package:atdigital_iot_app/utils/services/endpoint/endpoint_service.dart';
-import 'package:atdigital_iot_app/utils/services/endpoint/i_endpoint_service.dart';
-import 'package:atdigital_iot_app/utils/services/firebase/i_firebase_service.dart';
-import 'package:atdigital_iot_app/utils/services/local_database/i_local_database_service.dart';
-import 'package:atdigital_iot_app/utils/services/local_database/local_database_service.dart';
+import 'package:pchungyen_iot_app/config/routes/router.dart';
+import 'package:pchungyen_iot_app/core/logger/tb_logger.dart';
+import 'package:pchungyen_iot_app/utils/services/_tb_secure_storage.dart';
+import 'package:pchungyen_iot_app/utils/services/endpoint/endpoint_service.dart';
+import 'package:pchungyen_iot_app/utils/services/endpoint/i_endpoint_service.dart';
+import 'package:pchungyen_iot_app/utils/services/firebase/i_firebase_service.dart';
+import 'package:pchungyen_iot_app/utils/services/local_database/i_local_database_service.dart';
+import 'package:pchungyen_iot_app/utils/services/local_database/local_database_service.dart';
 
 import 'utils/services/firebase/firebase_service.dart';
 

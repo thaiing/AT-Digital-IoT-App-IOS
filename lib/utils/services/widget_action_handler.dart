@@ -6,7 +6,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:mime/mime.dart';
 import 'package:qr_code_scanner/qr_code_scanner.dart';
-import 'package:atdigital_iot_app/core/context/tb_context.dart';
+import 'package:pchungyen_iot_app/core/context/tb_context.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 class WidgetMobileActionResult<T extends MobileActionResult> {
